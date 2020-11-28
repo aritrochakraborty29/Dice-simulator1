@@ -1,4 +1,4 @@
-# Rock Paper Scissors
+# Rock Paper Scissors Using `Python` `Pygame`
 ![pig_dice_game_ss](https://github.com/aritrochakraborty29/Dice-simulator1/blob/main/Hnet-image.gif)
 ### Rule: 
 Although the game has a lot of complexity to it, the rules to play it are pretty simple.
